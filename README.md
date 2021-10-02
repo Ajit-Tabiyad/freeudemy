@@ -16,8 +16,13 @@ Step 4 : python3 freeudemy.py
 
 
 
+================== Thats it , now you will have free coupouns ==============
 
-If you get error like: sh: 1: lolcat: not found
+
+
+
+
+If you got error like: sh: 1: lolcat: not found
 
 then try below given commands
 
