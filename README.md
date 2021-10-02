@@ -29,14 +29,24 @@ then try below given commands
 
  Debian
 apt-get install lolcat
+ 
+ 
  Ubuntu
 apt-get install lolcat
+ 
+ 
  Arch Linux
 pacman -S lolcat
+ 
+ 
  Kali Linux
 apt-get install lolcat
+ 
+ 
  OS X
 brew install lolcat
+ 
+ 
  Raspbian
 apt-get install lolcat
 
